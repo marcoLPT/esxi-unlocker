@@ -1,5 +1,5 @@
 # macOS Unlocker V3.0.2 for VMware ESXi
-
+#only for build release
 
 ## 1. Introduction
 
